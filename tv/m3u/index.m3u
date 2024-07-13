@@ -94,7 +94,7 @@ https://itv.lat/hls?channel=jxwsH265&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.com/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
 https://itv.lat/hls?channel=kbwsH264_2000&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
-https://itv.lat/hls?channel=lnwsHDH265&token=fbca23599065f5bd644b330db4e3b1f5
+https://itv.lat/hls?channel=lnwsHDH264&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://itv.lat/hls?channel=nmgws&token=fbca23599065f5bd644b330db4e3b1f5
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视频道",山东教育卫视
