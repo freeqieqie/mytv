@@ -1,24 +1,4 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#佛山频道
-#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="地方频道",佛山公共
-http://113.109.251.4:9999/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="地方频道",佛山公共
-http://113.102.83.24:4022/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="地方频道",佛山公共
-http://113.100.72.190:8899/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="地方频道",佛山综合
-http://113.102.83.24:4022/udp/239.253.43.57:5146
-#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="地方频道",佛山综合
-http://113.100.72.190:8899/udp/239.253.43.57:5146
-#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="地方频道",佛山综合
-http://113.109.251.4:9999/udp/239.253.43.57:5146
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="🏠广东频道",广州综合
-http://r.jdshipin.com/iR6Gq$订阅源
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="🏠广东频道",广州综合
-http://113.102.83.24:4022/udp/239.253.43.71:5146$订阅源|1920x1080
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="🏠广东频道",广州综合
-http://113.109.251.4:9999/udp/239.253.43.71:5146$订阅源|1920x1080
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -658,8 +638,25 @@ http://211.72.65.236:8525/.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="港澳台频道",东森电影
 http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=ettvmovie$订阅源
 
-
-
+#佛山频道
+#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="地方频道",佛山公共
+http://113.109.251.4:9999/udp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="地方频道",佛山公共
+http://113.102.83.24:4022/udp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="地方频道",佛山公共
+http://113.100.72.190:8899/udp/239.253.43.53:5146
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="地方频道",佛山综合
+http://113.102.83.24:4022/udp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="地方频道",佛山综合
+http://113.100.72.190:8899/udp/239.253.43.57:5146
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://live.fanmingming.com/tv/佛山综合.png" group-title="地方频道",佛山综合
+http://113.109.251.4:9999/udp/239.253.43.57:5146
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="🏠广东频道",广州综合
+http://r.jdshipin.com/iR6Gq$订阅源
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="🏠广东频道",广州综合
+http://113.102.83.24:4022/udp/239.253.43.71:5146$订阅源|1920x1080
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="🏠广东频道",广州综合
+http://113.109.251.4:9999/udp/239.253.43.71:5146$订阅源|1920x1080
 
 #动画频道
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="动画频道",卡酷少儿
